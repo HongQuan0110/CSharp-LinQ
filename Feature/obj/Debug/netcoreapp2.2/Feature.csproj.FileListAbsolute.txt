@@ -1,0 +1,11 @@
+C:\Users\quan.le\Desktop\demo\LinQ\Feature\bin\Debug\netcoreapp2.2\Feature.deps.json
+C:\Users\quan.le\Desktop\demo\LinQ\Feature\bin\Debug\netcoreapp2.2\Feature.runtimeconfig.json
+C:\Users\quan.le\Desktop\demo\LinQ\Feature\bin\Debug\netcoreapp2.2\Feature.runtimeconfig.dev.json
+C:\Users\quan.le\Desktop\demo\LinQ\Feature\bin\Debug\netcoreapp2.2\Feature.dll
+C:\Users\quan.le\Desktop\demo\LinQ\Feature\bin\Debug\netcoreapp2.2\Feature.pdb
+C:\Users\quan.le\Desktop\demo\LinQ\Feature\obj\Debug\netcoreapp2.2\Feature.csprojAssemblyReference.cache
+C:\Users\quan.le\Desktop\demo\LinQ\Feature\obj\Debug\netcoreapp2.2\Feature.csproj.CoreCompileInputs.cache
+C:\Users\quan.le\Desktop\demo\LinQ\Feature\obj\Debug\netcoreapp2.2\Feature.AssemblyInfoInputs.cache
+C:\Users\quan.le\Desktop\demo\LinQ\Feature\obj\Debug\netcoreapp2.2\Feature.AssemblyInfo.cs
+C:\Users\quan.le\Desktop\demo\LinQ\Feature\obj\Debug\netcoreapp2.2\Feature.dll
+C:\Users\quan.le\Desktop\demo\LinQ\Feature\obj\Debug\netcoreapp2.2\Feature.pdb
